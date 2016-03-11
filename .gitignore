@@ -1,0 +1,12 @@
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+**/bin/**
+**/obj/**
+packages/**
+test/**
+build/**

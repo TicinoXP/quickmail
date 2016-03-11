@@ -1,0 +1,3 @@
+﻿è un macello. Questo è un file UTF-8, ma salvato con il BOM.
+E che roba è il BOM?
+Franceso aiutaci tu. L'encoding è un macello, maledetto chi lo ha inventato, che gli venga un colpo della strega.

@@ -1,0 +1,3 @@
+﻿Ciao, è l'ora di ricordarti di mandarmi la fattura!
+Ciao Giovanni, mi avevi promesso di spedirmi la fattura, ma evidentemente te ne sei dimenticato!
+Questo file  è UTF-8
